@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 Atualmente estou aprendendo JavaScript!
+- 🌱 Atualmente estou aprendendo Node.js!
 
 <div>
   <img height = "35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img height= "35em" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img height = "35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img height = "45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
+  <img height = "50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
           
           
 
