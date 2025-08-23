@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- Sou Desenvolvedor FullStack
+- Estou cursando Sistemas de Informação na UNA
 - 🌱 Atualmente estou aprendendo Node.js!
 
 <div>
