@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - Sou Desenvolvedor FullStack
 - Estou cursando Sistemas de Informação na UNA
-- 🌱 Atualmente estou aprendendo Node.js!
+- 🌱 Atualmente estou me especializando em Node.js!
 
 <div>
   <img height = "35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
